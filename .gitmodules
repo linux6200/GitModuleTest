@@ -1,0 +1,6 @@
+[submodule "deployment/build-yum-repo"]
+	path = deployment/build-yum-repo
+	url = https://github.com/linux6200/build-yum-repo
+[submodule "CSMP-BE"]
+	path = CSMP-BE
+	url = https://github.com/cmp-storage/CSMP-BE.git
